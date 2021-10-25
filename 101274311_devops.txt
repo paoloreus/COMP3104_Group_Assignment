@@ -1,1 +1,1 @@
-Information About COMP 3104 DevOps course.
+----- Information About COMP 3104 DevOps course. -----
