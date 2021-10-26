@@ -9,3 +9,6 @@ Yukina Completed 10 commit. - Oct 25 16:02
 Yukina Done.
 
 Paolo cloned the project on the local machine. - Oct 26 3:45 PM
+
+Paolo created new text files and wrote content as per requirements specified. - Oct 26 4:00 PM
+
