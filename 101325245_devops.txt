@@ -1,0 +1,6 @@
+							DevOps - COMP3104
+
+DevOps is a set of practices that combines software development and IT operations.
+It provides continuous delivery with high software quality.
+Several DevOps aspects came from the Agile methodology.
+We are currently operating on Git/GitHub implementing Version Control best practices.
