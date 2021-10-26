@@ -16,3 +16,5 @@ Paolo committed the results. - Oct 26 4:05 PM
 
 Paolo will then create Master branch to merge everything at. ( To be updated later )
 
+Paolo has concluded that main branch will be the master branch where all merges would take place - Paolo Oct 26 4:10 PM
+
