@@ -1,8 +1,0 @@
-							DevOps Engineer
-
-
-DevOps aims to shorten the systems development life cycle and provide continuous delivery with high software
-quality.
-DevOps provides a competitive advantage to organizations, by enabling them to improve and create products faster.
-Collaboration helps operations and development to reduce implementation failures, have shorter development cycles,
-and improve internal communication.
