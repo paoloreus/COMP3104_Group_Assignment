@@ -1,1 +1,4 @@
 SDLC stands for the software development life cycle.
+
+It has 7 phases: planning, analysis, design, development, testing, 
+implementation, and maintenance.
