@@ -3,3 +3,6 @@ Devops COMP3104, is a course in the T127 pathway offered to
 
 In this course we learn about the DevOps engineer and their procedures, protocols
 and practices.
+
+This course has a midterm exam, final exam, individual assignment, group assignment,
+labs and quizzes.
