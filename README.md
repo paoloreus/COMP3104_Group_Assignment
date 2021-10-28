@@ -23,3 +23,5 @@ Paolo done.
 Rhose cloned project on local machine. - Oct 28 12:48 PM
 
 Rhose added 3 text files - Oct 28 1:20 PM
+
+Rhose completed 10 commits and filled out information in text files - Oct 28 1:37 PM
