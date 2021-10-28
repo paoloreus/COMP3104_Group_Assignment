@@ -20,3 +20,4 @@ Paolo has concluded that main branch will be the master branch where all merges 
 
 Paolo done.
 
+Rhose cloned project on local machine. - Oct 28 12:48 PM
