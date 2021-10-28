@@ -1,0 +1,3 @@
+DevOps was first was also called “agile infrastructure” or “agile operations”; it came from
+applying Agile and Lean approaches to operations type of work. It brings together development and operations teams so
+there are fewer redundancies in the softwaredevelopment process.
