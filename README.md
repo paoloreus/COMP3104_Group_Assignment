@@ -29,3 +29,5 @@ Rhose completed 10 commits and filled out information in text files - Oct 28 1:3
 Rhose merged 101282411-Rhose branch to main - Oct 28 1:48PM
 
 Rhose merged 101282411-Rhose branch to master branch - Oct 28 1:51 PM
+
+Robertha cloned the project on her local machine! - Oct 28 3:01 PM
