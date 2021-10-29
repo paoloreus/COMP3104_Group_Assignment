@@ -1,6 +1,7 @@
 # COMP3104_Group_Assignment
+Yukina cloned the project on the local machine. - Oct 25 14:45
 
-Yukina Added and Modified files. - Oct 25 15:25 
+Yukina Added and Modified files. - Oct 25 15:25
 
 Yukina Modified text files. - Oct 25 16:00
 
